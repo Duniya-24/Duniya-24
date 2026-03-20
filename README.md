@@ -32,15 +32,7 @@ class Duniya:
     location     = "Hyderabad, India 🇮🇳"
 ```
 
----
 
-### 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Duniya-24&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/Duniya-24)
-
-</div>
 
 ---
 
@@ -106,27 +98,27 @@ class Duniya:
 
 </div>
 
----
 
-### 📈 Metrics
 
-<div align="center">
 
-[![Metrics](https://metrics.lecoq.io/Duniya-24?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=1&achievements.display=detailed&achievements.limit=6&notable.from=organization&notable.repositories=0&notable.indepth=0&notable.self=1&config.timezone=Asia%2FKolkata&config.display=large&config.animations=true)](https://github.com/Duniya-24)
-
-</div>
 
 ---
 
-### 🗓️ 3D Contribution Calendar
+### 🧩 Profile Summary
 
 <div align="center">
 
-[![3D Contrib](https://raw.githubusercontent.com/Duniya-24/Duniya-24/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Duniya-24)
+[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duniya-24&theme=tokyonight)](https://github.com/Duniya-24)
 
 </div>
 
-> ⚡ Auto-generated via GitHub Actions — see setup note below
+<div align="center">
+
+[![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Duniya-24&theme=tokyonight)](https://github.com/Duniya-24)
+&nbsp;
+[![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Duniya-24&theme=tokyonight)](https://github.com/Duniya-24)
+
+</div>
 
 ---
 
@@ -171,7 +163,7 @@ class Duniya:
 | 🏅 | Finalist | Smart India Hackathon | 2024 |
 | 🥇 | 1st Rank | Jayanty Ganganna Award · B.Tech Year 1 | 2024 |
 | 📘 | Co-Author | Numbers & Neurons ML Book | 2025 |
-| 🛡️ | Patent | PixVault · in progress via T-Hub | 2025 |
+| 🛡️ | Patent | PixVault · in progress  | 2025 |
 
 <br/>
 
