@@ -55,7 +55,7 @@ class Duniya:
 | | Project | What it does | Stack | |
 |:--:|:--|:--|:--|:--:|
 | 🛡️ | **[PixVault](https://github.com/Duniya-24/PixVault)** | Multi-layer adversarial pipeline protecting faces from deepfake synthesis — Fawkes, ArcFace disruption, PGD & diffusion poisoning | `Python` `FastAPI` `OpenCV` `Adv.ML` | 🏆 Runner-Up · 115+ teams |
-| 🎫 | **[AI Ticket Classifier](https://github.com/Duniya-24/AI-Ticket-Classifier)** | NLP system routing support tickets via intent detection, sentiment analysis & NER | `Python` `SpaCy` `Scikit-learn` | ⚡ Live Infosys project |
+| 🎫 | **[AI Ticket Classifier](https://helpdeskaiv1.vercel.app/)** | NLP system routing support tickets via intent detection, sentiment analysis & NER | `Python` `SpaCy` `Scikit-learn` | ⚡ Live Infosys project |
 | 🗣️ | **[VOXIS](https://github.com/Duniya-24/VOXIS)** | Voice-controlled desktop with 6 AI agents — Whisper STT · FastAPI · PyAutoGUI OS control | `Whisper` `FastAPI` `PyAutoGUI` | 🤖 Multi-agent |
 | 🧭 | **[Future Path](https://github.com/Duniya-24/Future-Path)** | AI career platform from 20+ user interviews — redesigned flow & ML recommendations | `React` `JS` `UX Research` | 👥 User-tested |
 | 🎭 | **[Mood Metrics](https://github.com/Duniya-24/Mood-Metrics)** | Emotion & sentiment analysis with human-readable ML output explanations | `Python` `NLP` `OpenCV` | 📊 ML for non-techies |
