@@ -1,23 +1,26 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1A56A0,60:7c3aed,100:0d9488&height=260&section=header&text=Duniya%20Vasa&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Adversarial%20ML%20%E2%80%A2%20Product%20Builder&descSize=17&descAlignY=65&descColor=94a3b8)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1A56A0,60:7c3aed,100:0d9488&height=300&section=header&text=Duniya%20Vasa&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Adversarial%20ML%20%E2%80%A2%20Product%20Builder&descSize=18&descAlignY=65&descColor=94a3b8)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Building+AI+that+protects+people+%F0%9F%9B%A1%EF%B8%8F;Patent-pending+adversarial+deepfake+shield;Product+thinker+%2B+ML+engineer;I+always+step+up%2C+lead%2C+and+deliver;CS+%28AI%29+%40+GRIET+%C2%B7+CGPA+9.73+%2F+10)](https://github.com/Duniya-24)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Building+AI+that+protects+people+%F0%9F%9B%A1%EF%B8%8F;Patent-pending+adversarial+deepfake+shield;Product+thinker+%2B+ML+engineer;I+always+step+up%2C+lead%2C+and+deliver;CS+%28AI%29+%40+GRIET+%C2%B7+CGPA+9.73+%2F+10)](https://github.com/Duniya-24)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duniya-vasa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duniyavasa@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@duniyavasa)
 ![CGPA](https://img.shields.io/badge/CGPA-9.73%2F10-1A56A0?style=for-the-badge)
 ![Patent](https://img.shields.io/badge/Patent-Pending-7c3aed?style=for-the-badge)
 ![Views](https://komarev.com/ghpvc/?username=Duniya-24&style=for-the-badge&color=2dd4bf&label=PROFILE+VIEWS)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742542b6762654f6164315766576f6c6776474d614b586c792b566f7578656e6b574e75383741564e43685a64393164534a49494e432f646f776e6c6f61642f31000/shape=circle"/>
 
 ```python
 class Duniya:
@@ -32,9 +35,9 @@ class Duniya:
     location     = "Hyderabad, India 🇮🇳"
 ```
 
+<br/>
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Featured Projects
 
@@ -47,7 +50,7 @@ class Duniya:
 | 🎭 | **[Mood Metrics](https://github.com/Duniya-24/Mood-Metrics)** | Emotion & sentiment analysis with human-readable ML output explanations | `Python` `NLP` `OpenCV` | 📊 ML for non-techies |
 | 🏫 | **[Griet Xplore](https://github.com/Duniya-24/Griet-Xplore)** | Campus portal — full UX overhaul based on student feedback, +50% engagement | `React` `HTML` `CSS` | 📈 +50% engagement |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🧪 PM Case Study
 
@@ -61,7 +64,7 @@ class Duniya:
 >
 > 📄 [**Read the full case study →**](https://docs.google.com/document/d/1t9mX2fRw7xnXSbV_pgmBOIfaLg0iyeUW6Ylio_OjioE/edit?usp=sharing)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Tech Stack
 
@@ -82,45 +85,34 @@ class Duniya:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Duniya-24&show_icons=true&theme=tokyonight&hide_border=true&title_color=2dd4bf&icon_color=a78bfa&bg_color=0a0a0f&text_color=e2e8f0&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Duniya-24&show_icons=true&theme=tokyonight&hide_border=true&title_color=2dd4bf&icon_color=a78bfa&bg_color=0a0a0f&text_color=e2e8f0&count_private=true"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duniya-24&layout=compact&theme=tokyonight&hide_border=true&title_color=2dd4bf&bg_color=0a0a0f&text_color=e2e8f0&langs_count=6"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duniya-24&layout=compact&theme=tokyonight&hide_border=true&title_color=2dd4bf&bg_color=0a0a0f&text_color=e2e8f0&langs_count=6"/>
 
 <br/><br/>
 
 [![Streak](https://streak-stats.demolab.com?user=Duniya-24&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=1A56A0&ring=a78bfa&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=64748b)](https://github.com/Duniya-24)
 
-</div>
-
-
-
-
-
----
-
-### 🧩 Profile Summary
-
-<div align="center">
+<br/>
 
 [![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duniya-24&theme=tokyonight)](https://github.com/Duniya-24)
 
+<br/>
+
+<div>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Duniya-24&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Duniya-24&theme=tokyonight"/>
 </div>
 
-<div align="center">
-
-[![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Duniya-24&theme=tokyonight)](https://github.com/Duniya-24)
-&nbsp;
-[![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Duniya-24&theme=tokyonight)](https://github.com/Duniya-24)
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📈 Activity Graph
 
@@ -130,7 +122,7 @@ class Duniya:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💬 Dev Quote
 
@@ -140,17 +132,7 @@ class Duniya:
 
 </div>
 
-
-
----
-
-### ✍️ Latest Writing
-
-<!-- BLOG-POST-LIST:START -->
-- 🤖 [The AI Revolution of 2025: 5 Game-Changing Technologies Every Student Should Know](https://medium.com/@duniyavasa)
-<!-- BLOG-POST-LIST:END -->
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🏅 Achievements
 
@@ -163,7 +145,7 @@ class Duniya:
 | 🏅 | Finalist | Smart India Hackathon | 2024 |
 | 🥇 | 1st Rank | Jayanty Ganganna Award · B.Tech Year 1 | 2024 |
 | 📘 | Co-Author | Numbers & Neurons ML Book | 2025 |
-| 🛡️ | Patent | PixVault · in progress  | 2025 |
+| 🛡️ | Patent | PixVault · in progress via T-Hub | 2025 |
 
 <br/>
 
@@ -175,7 +157,7 @@ class Duniya:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -188,6 +170,6 @@ class Duniya:
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:7c3aed,100:1A56A0&height=110&section=footer&reversal=true&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:7c3aed,100:1A56A0&height=120&section=footer&reversal=true&animation=twinkling)
 
 </div>
