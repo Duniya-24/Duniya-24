@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1A56A0,60:7c3aed,100:0d9488&height=300&section=header&text=Duniya%20Vasa&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Adversarial%20ML%20%E2%80%A2%20Product%20Builder&descSize=18&descAlignY=65&descColor=94a3b8)
+![header](https://capsule-render.vercel.app/api?type=shark&color=0:1A56A0,50:7c3aed,100:0d9488&height=200&section=header&text=Duniya%20Vasa&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Adversarial%20ML%20%E2%80%A2%20Product%20Builder&descSize=18&descAlignY=65&descColor=e2e8f0)
 
 <br/>
 
