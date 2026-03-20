@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:1A56A0,50:7c3aed,100:0d9488&height=200&section=header&text=Duniya%20Vasa&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Adversarial%20ML%20%E2%80%A2%20Product%20Builder&descSize=18&descAlignY=65&descColor=e2e8f0)
+![header](https://capsule-render.vercel.app/api?type=shark&color=0:1A56A0,50:7c3aed,100:0d9488&height=200&section=header&text=Duniya%20Vasa&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Adversarial%20ML%20%E2%80%A2%20Product%20Builder&descSize=18&descAlignY=65&descColor=e2e8f0)
 
 <br/>
 
@@ -20,20 +20,31 @@
 
 <br/>
 
-<img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742542b6762654f6164315766576f6c6776474d614b586c792b566f7578656e6b574e75383741564e43685a64393164534a49494e432f646f776e6c6f61642f31000/shape=circle"/>
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=rect&color=0:13131f,100:13131f&height=8&section=header)
+
+<table>
+<tr>
+<td>
 
 ```python
 class Duniya:
-    # Building AI that protects people
-
-    building     = "PixVault — adversarial deepfake shield 🛡️ (patent pending)"
-    leading      = "Infosys Springboard 6.0 — NLP automation · team of 5"
-    published    = "Numbers & Neurons ML Book (2025)"
-    interned_at  = ["Viswam AI / IIIT Hyderabad", "Tata iQ"]
-    ask_me_about = ["adversarial ML", "product case studies", "voice AI agents"]
-    cgpa         = 9.73 / 10   # top of batch
-    location     = "Hyderabad, India 🇮🇳"
+  building     = "PixVault 🛡️ — patent pending"
+  leading      = "Infosys Springboard 6.0"
+  published    = "Numbers & Neurons ML Book"
+  interned_at  = ["Viswam AI / IIIT-H", "Tata iQ"]
+  ask_me      = ["adversarial ML", "product", "voice AI"]
+  cgpa         = 9.73  # top of batch 🏆
+  location     = "Hyderabad, India 🇮🇳"
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
