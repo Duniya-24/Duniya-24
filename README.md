@@ -1,16 +1,201 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Duniya-24/Duniya-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1A56A0,60:7c3aed,100:0d9488&height=260&section=header&text=Duniya%20Vasa&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Adversarial%20ML%20%E2%80%A2%20Product%20Builder&descSize=17&descAlignY=65&descColor=94a3b8)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Building+AI+that+protects+people+%F0%9F%9B%A1%EF%B8%8F;Patent-pending+adversarial+deepfake+shield;Product+thinker+%2B+ML+engineer;I+always+step+up%2C+lead%2C+and+deliver;CS+%28AI%29+%40+GRIET+%C2%B7+CGPA+9.73+%2F+10)](https://github.com/Duniya-24)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duniya-vasa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duniyavasa@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@duniyavasa)
+![CGPA](https://img.shields.io/badge/CGPA-9.73%2F10-1A56A0?style=for-the-badge)
+![Patent](https://img.shields.io/badge/Patent-Pending-7c3aed?style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=Duniya-24&style=for-the-badge&color=2dd4bf&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+```python
+class Duniya:
+    # Building AI that protects people
+
+    building     = "PixVault — adversarial deepfake shield 🛡️ (patent pending)"
+    leading      = "Infosys Springboard 6.0 — NLP automation · team of 5"
+    published    = "Numbers & Neurons ML Book (2025)"
+    interned_at  = ["Viswam AI / IIIT Hyderabad", "Tata iQ"]
+    ask_me_about = ["adversarial ML", "product case studies", "voice AI agents"]
+    cgpa         = 9.73 / 10   # top of batch
+    location     = "Hyderabad, India 🇮🇳"
+```
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Duniya-24&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/Duniya-24)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| | Project | What it does | Stack | |
+|:--:|:--|:--|:--|:--:|
+| 🛡️ | **[PixVault](https://github.com/Duniya-24/PixVault)** | Multi-layer adversarial pipeline protecting faces from deepfake synthesis — Fawkes, ArcFace disruption, PGD & diffusion poisoning | `Python` `FastAPI` `OpenCV` `Adv.ML` | 🏆 Runner-Up · 115+ teams |
+| 🎫 | **[AI Ticket Classifier](https://github.com/Duniya-24/AI-Ticket-Classifier)** | NLP system routing support tickets via intent detection, sentiment analysis & NER | `Python` `SpaCy` `Scikit-learn` | ⚡ Live Infosys project |
+| 🗣️ | **[VOXIS](https://github.com/Duniya-24/VOXIS)** | Voice-controlled desktop with 6 AI agents — Whisper STT · FastAPI · PyAutoGUI OS control | `Whisper` `FastAPI` `PyAutoGUI` | 🤖 Multi-agent |
+| 🧭 | **[Future Path](https://github.com/Duniya-24/Future-Path)** | AI career platform from 20+ user interviews — redesigned flow & ML recommendations | `React` `JS` `UX Research` | 👥 User-tested |
+| 🎭 | **[Mood Metrics](https://github.com/Duniya-24/Mood-Metrics)** | Emotion & sentiment analysis with human-readable ML output explanations | `Python` `NLP` `OpenCV` | 📊 ML for non-techies |
+| 🏫 | **[Griet Xplore](https://github.com/Duniya-24/Griet-Xplore)** | Campus portal — full UX overhaul based on student feedback, +50% engagement | `React` `HTML` `CSS` | 📈 +50% engagement |
+
+---
+
+### 🧪 PM Case Study
+
+> **Swiggy Repeat-Order Drop-Off Analysis**
+>
+> Mapped end-to-end user journey → found **decision overload**, **comparison friction** & **price perception gaps** as root causes
+>
+> **Proposed:** Quick Picks recommendations · cross-restaurant cart persistence · transparent pricing
+>
+> **Measured by:** Conversion rate · repeat usage · cart abandonment rate · A/B experiment plan
+>
+> 📄 [**Read the full case study →**](https://docs.google.com/document/d/1t9mX2fRw7xnXSbV_pgmBOIfaLg0iyeUW6Ylio_OjioE/edit?usp=sharing)
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,react,js,html,css,figma,git,github,vscode,linux,arduino&theme=dark&perline=8" />
+
+<br/><br/>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logo=openai&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Duniya-24&show_icons=true&theme=tokyonight&hide_border=true&title_color=2dd4bf&icon_color=a78bfa&bg_color=0a0a0f&text_color=e2e8f0&count_private=true"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duniya-24&layout=compact&theme=tokyonight&hide_border=true&title_color=2dd4bf&bg_color=0a0a0f&text_color=e2e8f0&langs_count=6"/>
+
+<br/><br/>
+
+[![Streak](https://streak-stats.demolab.com?user=Duniya-24&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=1A56A0&ring=a78bfa&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=64748b)](https://github.com/Duniya-24)
+
+</div>
+
+---
+
+### 📈 Metrics
+
+<div align="center">
+
+[![Metrics](https://metrics.lecoq.io/Duniya-24?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=1&achievements.display=detailed&achievements.limit=6&notable.from=organization&notable.repositories=0&notable.indepth=0&notable.self=1&config.timezone=Asia%2FKolkata&config.display=large&config.animations=true)](https://github.com/Duniya-24)
+
+</div>
+
+---
+
+### 🗓️ 3D Contribution Calendar
+
+<div align="center">
+
+[![3D Contrib](https://raw.githubusercontent.com/Duniya-24/Duniya-24/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Duniya-24)
+
+</div>
+
+> ⚡ Auto-generated via GitHub Actions — see setup note below
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Duniya-24&bg_color=0a0a0f&color=2dd4bf&line=a78bfa&point=4f8ef7&area=true&area_color=1A56A0&hide_border=true)](https://github.com/Duniya-24)
+
+</div>
+
+---
+
+### 💬 Dev Quote
+
+<div align="center">
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/Duniya-24)
+
+</div>
+
+
+
+---
+
+### ✍️ Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+- 🤖 [The AI Revolution of 2025: 5 Game-Changing Technologies Every Student Should Know](https://medium.com/@duniyavasa)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🏅 Achievements
+
+<div align="center">
+
+| | Award | Event | Year |
+|:--:|:--|:--|:--:|
+| 🥈 | Runner-Up | Novus'24 Hackathon · 115+ teams | 2024 |
+| 🏅 | Finalist | CBIT National Hackathon | 2026 |
+| 🏅 | Finalist | Smart India Hackathon | 2024 |
+| 🥇 | 1st Rank | Jayanty Ganganna Award · B.Tech Year 1 | 2024 |
+| 📘 | Co-Author | Numbers & Neurons ML Book | 2025 |
+| 🛡️ | Patent | PixVault · in progress via T-Hub | 2025 |
+
+<br/>
+
+![McKinsey](https://img.shields.io/badge/McKinsey_Forward-00A9E0?style=flat-square)
+![Google AI](https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=flat-square&logo=google&logoColor=white)
+![Infosys GenAI](https://img.shields.io/badge/Infosys_Applied_GenAI-0070AD?style=flat-square)
+![Google Prompt](https://img.shields.io/badge/Google_Prompt_to_Prototype-34A853?style=flat-square&logo=google&logoColor=white)
+![Infosys AI](https://img.shields.io/badge/Infosys_AI_Foundation-0070AD?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to PM roles · AI research · interesting problems worth solving**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/duniyavasa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duniyavasa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duniya-vasa)
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:7c3aed,100:1A56A0&height=110&section=footer&reversal=true&animation=twinkling)
+
+</div>
