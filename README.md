@@ -103,35 +103,12 @@ class Duniya:
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Duniya-24&show_icons=true&theme=tokyonight&hide_border=true&title_color=2dd4bf&icon_color=a78bfa&bg_color=0a0a0f&text_color=e2e8f0&count_private=true"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duniya-24&layout=compact&theme=tokyonight&hide_border=true&title_color=2dd4bf&bg_color=0a0a0f&text_color=e2e8f0&langs_count=6"/>
-
-<br/><br/>
-
-[![Streak](https://streak-stats.demolab.com?user=Duniya-24&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=1A56A0&ring=a78bfa&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=64748b)](https://github.com/Duniya-24)
-
-<br/>
-
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duniya-24&theme=tokyonight)](https://github.com/Duniya-24)
-
-<br/>
-
-<div>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Duniya-24&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Duniya-24&theme=tokyonight"/>
-</div>
+&nbsp;&nbsp;
+[![Streak](https://streak-stats.demolab.com?user=Duniya-24&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=1A56A0&ring=a78bfa&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=64748b&height=180)](https://github.com/Duniya-24)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📈 Activity Graph
-
-<div align="center">
-
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Duniya-24&bg_color=0a0a0f&color=2dd4bf&line=a78bfa&point=4f8ef7&area=true&area_color=1A56A0&hide_border=true)](https://github.com/Duniya-24)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
