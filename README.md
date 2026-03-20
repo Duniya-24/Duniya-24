@@ -130,10 +130,10 @@ class Duniya:
 |:--:|:--|:--|:--:|
 | 🥈 | Runner-Up | Novus'24 Hackathon · 115+ teams | 2024 |
 | 🏅 | Finalist | CBIT National Hackathon | 2026 |
-| 🏅 | Finalist | Smart India Hackathon | 2024 |
+| 🏅 | Finalist | Smart India Hackathon College Level | 2024 |
 | 🥇 | 1st Rank | Jayanty Ganganna Award · B.Tech Year 1 | 2024 |
 | 📘 | Co-Author | Numbers & Neurons ML Book | 2025 |
-| 🛡️ | Patent | PixVault · in progress via T-Hub | 2025 |
+| 🛡️ | Patent | PixVault · in progress  | 2025 |
 
 <br/>
 
