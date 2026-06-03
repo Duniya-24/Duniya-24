@@ -31,13 +31,30 @@
 
 ```python
 class Duniya:
-  building     = "PixVault 🛡️ — patent pending"
-  leading      = "Infosys Springboard 6.0"
-  published    = "Numbers & Neurons ML Book"
-  interned_at  = ["Viswam AI / IIIT-H", "Tata iQ"]
-  ask_me      = ["adversarial ML", "product", "voice AI"]
-  cgpa         = 9.73  # top of batch 🏆
-  location     = "Hyderabad, India 🇮🇳"
+  building      = "PixVault 🛡️ — patent pending"
+  published     = "Numbers & Neurons ML Book"
+
+  internships   = [
+      "Infosys Springboard 6.0",
+      "Viswam AI / IIIT Hyderabad",
+      "Tata iQ"
+  ]
+
+  awards        = [
+      "Jayanty Ganganna Award",
+      "Alumnus Award for Academic Excellence"
+  ]
+
+  ask_me_about  = [
+      "adversarial ML",
+      "product management",
+      "voice AI",
+      "NLP"
+  ]
+
+  cgpa          = 9.73
+  rank          = "1st Rank Holder (Year 1 & Year 2)"
+  location      = "Hyderabad, India 🇮🇳"
 ```
 
 </td>
@@ -55,11 +72,11 @@ class Duniya:
 | | Project | What it does | Stack | |
 |:--:|:--|:--|:--|:--:|
 | 🛡️ | **[PixVault](https://github.com/Duniya-24/PixVault)** | Multi-layer adversarial pipeline protecting faces from deepfake synthesis — Fawkes, ArcFace disruption, PGD & diffusion poisoning | `Python` `FastAPI` `OpenCV` `Adv.ML` | 🏆 Runner-Up · 115+ teams |
-| 🎫 | **[AI Ticket Classifier](https://helpdeskaiv1.vercel.app/)** | NLP system routing support tickets via intent detection, sentiment analysis & NER | `Python` `SpaCy` `Scikit-learn` | ⚡ Live Infosys project |
-| 🗣️ | **[VOXIS](https://github.com/Duniya-24/VOXIS)** | Voice-controlled desktop with 6 AI agents — Whisper STT · FastAPI · PyAutoGUI OS control | `Whisper` `FastAPI` `PyAutoGUI` | 🤖 Multi-agent |
-| 🧭 | **[Future Path](https://github.com/Duniya-24/Future-Path)** | AI career platform from 20+ user interviews — redesigned flow & ML recommendations | `React` `JS` `UX Research` | 👥 User-tested |
-| 🎭 | **[Mood Metrics](https://github.com/Duniya-24/Mood-Metrics)** | Emotion & sentiment analysis with human-readable ML output explanations | `Python` `NLP` `OpenCV` | 📊 ML for non-techies |
-| 🏫 | **[Griet Xplore](https://github.com/Duniya-24/Griet-Xplore)** | Campus portal — full UX overhaul based on student feedback, +50% engagement | `React` `HTML` `CSS` | 📈 +50% engagement |
+| 🎫 | **[AI Ticket Classifier](https://helpdeskaiv1.vercel.app/)** | NLP-powered support ticket classification system using intent detection, sentiment analysis & NER for intelligent routing | `Python` `SpaCy` `Scikit-learn` | 🏆 Infosys Internship Project |
+| 🗣️ | **[NOVA](https://github.com/Duniya-24/NOVA)** | AI-powered voice-controlled desktop assistant with 6 specialized agents for automation, productivity & system control | `Whisper` `FastAPI` `PyAutoGUI` `LLMs` | 🤖 Multi-agent |
+| 🧭 | **[Future Path](https://github.com/Duniya-24/Future-Path)** | AI career platform from 20+ user interviews — redesigned flow & ML recommendations | `React` `JavaScript` `UX Research` | 👥 User-tested |
+| 🎭 | **[Mood Metrics](https://github.com/Duniya-24/Mood-Metrics)** | Emotion & sentiment analysis with explainable AI insights and human-readable predictions | `Python` `NLP` `OpenCV` | 📊 ML |
+| 🏫 | **[Griet Xplore](https://github.com/Duniya-24/Griet-Xplore)** | Campus portal redesigned using student feedback, improving usability and engagement | `React` `HTML` `CSS` | 📈 +50% engagement |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -76,6 +93,14 @@ class Duniya:
 > 📄 [**Read the full case study →**](https://docs.google.com/document/d/1t9mX2fRw7xnXSbV_pgmBOIfaLg0iyeUW6Ylio_OjioE/edit?usp=sharing)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 💼 Internship Experience
+
+| Organization | Role | Key Contributions |
+|-------------|------|-------------------|
+| Infosys Springboard 6.0 | AI Intern | Built AI Ticket Classifier, applied NLP techniques, collaborated in Agile development teams |
+| Viswam AI / IIIT Hyderabad | AI Research Intern | Worked on AI research initiatives and machine learning model development |
+| Tata iQ | Data Analytics Intern | Performed analytics, generated business insights and supported data-driven decision making |
 
 ### 🛠️ Tech Stack
 
@@ -128,13 +153,13 @@ class Duniya:
 
 | | Award | Event | Year |
 |:--:|:--|:--|:--:|
-| 🥈 | Runner-Up | Novus'24 Hackathon · 115+ teams | 2024 |
+| 🥈 | Runner-Up | Novus'24 Hackathon · 115+ Teams | 2024 |
 | 🏅 | Finalist | CBIT National Hackathon | 2026 |
 | 🏅 | Finalist | Smart India Hackathon College Level | 2024 |
-| 🥇 | 1st Rank | Jayanty Ganganna Award · B.Tech Year 1 | 2024 |
+| 🥇 | Jayanty Ganganna Award | 1st Rank in B.Tech Year 1 | 2024 |
+| 🥇 | Alumnus Award for Academic Excellence | 1st Rank in B.Tech Year 2 | 2025 |
 | 📘 | Co-Author | Numbers & Neurons ML Book | 2025 |
-| 🛡️ | Patent | PixVault · in progress  | 2025 |
-
+| 🛡️ | Patent pending | PixVault Deepfake Protection System 
 <br/>
 
 ![McKinsey](https://img.shields.io/badge/McKinsey_Forward-00A9E0?style=flat-square)
@@ -149,7 +174,7 @@ class Duniya:
 
 <div align="center">
 
-**Open to PM roles · AI research · interesting problems worth solving**
+**Open to AI Product Management, Product Analyst, Data Analytics, AI Research & Software Engineering opportunities.
 
 <br/>
 
