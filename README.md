@@ -70,7 +70,7 @@ class Duniya:
 |:--:|:--|:--|:--|:--:|
 | 🛡️ | **PixVault** | Multi-layer adversarial pipeline protecting faces from deepfake synthesis — Fawkes, ArcFace disruption, PGD & diffusion poisoning | `Python` `OpenCV` `Adv.ML` | 🏆 Runner-Up · 115+ teams · repo private |
 | 🎫 | **[AI Ticket Classifier](https://helpdeskaiv1.vercel.app/)** | NLP-powered support ticket classification system using intent detection, sentiment analysis & routing | `Python` `SpaCy` `Scikit-learn` `Flask` | 🏆 Infosys Internship Project |
-| 🗣️ | **[NOVA](https://github.com/Duniya-24/nova-assistant)** | AI assistant project — currently in active development | `React` `TypeScript` | 🚧 Work in progress |
+| 🗣️ | **[NOVA]((https://github.com/Duniya-24/NOVA---Voice-Based-Desktop-Assisstant))** | AI assistant project — currently in active development | `React` `TypeScript` | 🚧 Work in progress |
 | 🧭 | **[Future Path](https://futurepath-eight.vercel.app/)** | AI career platform from 20+ user interviews — redesigned flow & ML recommendations. *(Live demo — log in with any test/fake credentials)* | `React` `JavaScript` `UX Research` | 👥 User-tested |
 | 🎭 | **[Mood Metrics](https://github.com/Duniya-24/Mood_Metrics)** | Multimodal emotion & sentiment analysis across text, audio, and video, with a sentiment-aware chatbot | `Python` `NLP` | 📊 ML |
 | 🏫 | **[Griet Xplore](https://github.com/Duniya-24/GrietXplore)** | Campus portal redesigned using student feedback | `HTML` `CSS` `JavaScript` | 📈 Usability-focused |
